@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">peticionRed</string>
+    <string name="coordenadas">Coordenadas:</string>
+    <string name="datails">Detalles</string>
+</resources>
